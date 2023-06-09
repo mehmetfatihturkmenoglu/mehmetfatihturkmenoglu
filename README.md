@@ -11,6 +11,8 @@ A fresh Front-End Developer with experience in the IT industry. Currently workin
 
 <h2 align="center">Skills 🛠</h2>
 
+<br>
+
 <p align="center">
 <img src="https://img.shields.io/badge/JavaScript-323330?style=flat&logo=javascript&logoColor=F7DF1E"> <img src="https://img.shields.io/badge/React-20232A?style=flate&logo=react&logoColor=61DAFB"> <img src="https://img.shields.io/badge/Angular-DD0031?style=flat&logo=angular&logoColor=white"> <img src="https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=flat&logo=Visual%20Studio%20Code&logoColor=white&labelColor=007ACC"> <img src="https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white">
 </p>
