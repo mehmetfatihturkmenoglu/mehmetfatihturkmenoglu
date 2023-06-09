@@ -33,7 +33,7 @@ A fresh Front-End Developer with experience in the IT industry. Currently workin
   <img alt="Top Languages used by me" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mehmetfatihturkmenoglu&langs_count=6&layout=compact&theme=radical&bg_color=0D1117&hide_border=true" width="40.9%"/>
 </picture>
 
-<br><br>
+<br>
 
 <p align="center">
   <picture>
@@ -43,7 +43,7 @@ A fresh Front-End Developer with experience in the IT industry. Currently workin
   </picture>
 </p>
 
-<br><br>
+<br>
 
 <p align="center">
   <picture>
