@@ -21,8 +21,6 @@ A fresh Front-End Developer with experience in the IT industry. Currently workin
 
 - :world_map: &nbsp; [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://tr.linkedin.com/in/mehmet-fatih-turkmenoglu-a6abb1107)
 
-<br>
-
 <h2 align="center" background="#E33D80">Github Stats</h2>
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=mehmetfatihturkmenoglu&show_icons=true&hide=contribs&cache_seconds=86400&theme=radical&bg_color=0D1117&hide_border=true">
