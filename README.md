@@ -9,9 +9,7 @@ A fresh Front-End Developer with experience in the IT industry. Currently workin
     <a href="https://github.com/mehmetfatihturkmenoglu/"><img src="https://img.shields.io/github/followers/mehmetfatihturkmenoglu?style=flat-square?color=%234CC61E&label=GitHub%20Followers%20"></a>
 </p>
 
-<h2 align="center">Tech Stack 🛠</h2>
-
-<h3 align="center">Skills</h3>
+<h2 align="center">Skills 🛠</h2>
 
 <p align="center">
 <img src="https://img.shields.io/badge/JavaScript-323330?style=flat&logo=javascript&logoColor=F7DF1E"> <img src="https://img.shields.io/badge/React-20232A?style=flate&logo=react&logoColor=61DAFB"> <img src="https://img.shields.io/badge/Angular-DD0031?style=flat&logo=angular&logoColor=white"> <img src="https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=flat&logo=Visual%20Studio%20Code&logoColor=white&labelColor=007ACC"> <img src="https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white">
