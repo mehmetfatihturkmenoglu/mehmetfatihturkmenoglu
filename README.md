@@ -43,9 +43,9 @@ A fresh Front-End Developer with experience in the IT industry. Currently workin
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-trophy.vercel.app/?username=mehmetfatihturkmenoglu&theme=radical&column=4&margin-w=15&no-frame=true&&no-bg=true&margin-h=15">
-    <source media="(prefers-color-scheme: light)" srcset="https://github-profile-trophy.vercel.app/?username=mehmetfatihturkmenoglu&column=4&margin-w=15&no-frame=true&&no-bg=true&margin-h=15">
-    <img alt="GitHub Trophies" src="https://github-profile-trophy.vercel.app/?username=mehmetfatihturkmenoglu&theme=radical&column=4&margin-w=15&no-frame=true&&no-bg=true&margin-h=15" width="80%">
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-trophy.vercel.app/?username=omersahin3&theme=radical&column=4&margin-w=15&no-frame=true&&no-bg=true&margin-h=15">
+    <source media="(prefers-color-scheme: light)" srcset="https://github-profile-trophy.vercel.app/?username=omersahin3&column=4&margin-w=15&no-frame=true&&no-bg=true&margin-h=15">
+    <img alt="GitHub Trophies" src="https://github-profile-trophy.vercel.app/?username=omersahin3&theme=radical&column=4&margin-w=15&no-frame=true&&no-bg=true&margin-h=15" width="80%">
   </picture>
 </p>
 
