@@ -18,6 +18,7 @@ A fresh Front-End Developer with experience in the IT industry. Currently workin
 - 🖥️ &nbsp; <img src="https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=flat&logo=Visual%20Studio%20Code&logoColor=white&labelColor=007ACC">
 
 - :cloud: &nbsp; <img src="https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white">
+- :link: &nbsp; <img src="[https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)">
 
 <br>
 
