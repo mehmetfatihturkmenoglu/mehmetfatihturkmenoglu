@@ -19,7 +19,7 @@ A fresh Front-End Developer with experience in the IT industry. Currently workin
 
 - :cloud: &nbsp; <img src="https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white">
 
-- :world_map: &nbsp; <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" href="[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://tr.linkedin.com/in/mehmet-fatih-turkmenoglu-a6abb1107)">
+- :world_map: &nbsp; [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://tr.linkedin.com/in/mehmet-fatih-turkmenoglu-a6abb1107)
 
 <br>
 
