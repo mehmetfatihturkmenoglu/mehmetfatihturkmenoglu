@@ -25,7 +25,7 @@ A fresh Front-End Developer with experience in the IT industry. Currently workin
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=mehmetfatihturkmenoglu&show_icons=true&hide=contribs&cache_seconds=86400&theme=radical&bg_color=0D1117&hide_border=true">
   <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=mehmetfatihturkmenoglu&show_icons=true&hide=contribs&cache_seconds=86400&hide_border=true">
-  <img align="left" alt="Mehmet Fatih's Github Stats" src="https://github-readme-stats.vercel.app/api?username=mehmetfatihturkmenoglu&show_icons=true&hide=contribs&cache_seconds=86400&theme=radical&bg_color=0D1117&hide_border=true" width="54%"/>
+  <img align="left" alt="mehmetfatihturkmenoglu's Github Stats" src="https://github-readme-stats.vercel.app/api?username=mehmetfatihturkmenoglu&show_icons=true&hide=contribs&cache_seconds=86400&theme=radical&bg_color=0D1117&hide_border=true" width="54%"/>
 </picture>
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=mehmetfatihturkmenoglu&langs_count=6&layout=compact&theme=radical&bg_color=0D1117&hide_border=true">
