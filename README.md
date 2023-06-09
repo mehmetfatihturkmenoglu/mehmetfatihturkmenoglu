@@ -33,9 +33,9 @@ A fresh Front-End Developer with experience in the IT industry. Currently workin
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com?user=mehmetfatihturkmenoglu&theme=radical&hide_border=true&background=0D1117">
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-streak-stats.herokuapp.com?user=mehmetfatihturkmenoglu&hide_border=true">
-    <img alt="GitHub Trophies" src="https://github-readme-streak-stats.herokuapp.com?user=mehmetfatihturkmenoglu&theme=radical&hide_border=true&background=0D1117" width="50%">
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com?user=omersahin3&theme=radical&hide_border=true&background=0D1117">
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-streak-stats.herokuapp.com?user=omersahin3&hide_border=true">
+    <img alt="GitHub Trophies" src="https://github-readme-streak-stats.herokuapp.com?user=omersahin3&theme=radical&hide_border=true&background=0D1117" width="50%">
   </picture>
 </p>
 
