@@ -14,8 +14,11 @@ A fresh Front-End Developer with experience in the IT industry. Currently workin
 <h3 align="center">Skills</h3>
 
 <p align="center">
-<img src="https://img.shields.io/badge/JavaScript-323330?style=flat&logo=javascript&logoColor=F7DF1E"> <img src="https://img.shields.io/badge/React-20232A?style=flate&logo=react&logoColor=61DAFB"> <img src="https://img.shields.io/badge/Angular-DD0031?style=flat&logo=angular&logoColor=white"> <img src="https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=flat&logo=Visual%20Studio%20Code&logoColor=white&labelColor=007ACC"> <img src="https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white"> [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://tr.linkedin.com/in/mehmet-fatih-turkmenoglu-a6abb1107)>
+<img src="https://img.shields.io/badge/JavaScript-323330?style=flat&logo=javascript&logoColor=F7DF1E"> <img src="https://img.shields.io/badge/React-20232A?style=flate&logo=react&logoColor=61DAFB"> <img src="https://img.shields.io/badge/Angular-DD0031?style=flat&logo=angular&logoColor=white"> <img src="https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=flat&logo=Visual%20Studio%20Code&logoColor=white&labelColor=007ACC"> <img src="https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white">
 </p>
+<p align="center">
+  </p>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://tr.linkedin.com/in/mehmet-fatih-turkmenoglu-a6abb1107)
 
 <h2 align="center" background="#E33D80">Github Stats</h2>
 <picture>
