@@ -1,7 +1,7 @@
 <h1 align="center">Hi there 👋, I'm <a href="https://github.com/mehmetfatihturkmenoglu/">Mehmet Fatih</a></h1>
 
 <p align="center">
-Front-End Developer with experience in the IT industry. Currently working on web applications development using Angular and React frameworks.
+Front-End Developer with experience in the IT industry. Currently working on web applications development using React and Angular frameworks.
 </p>
 
 <p align="center">
